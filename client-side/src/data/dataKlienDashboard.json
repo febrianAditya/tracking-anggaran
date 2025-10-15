@@ -1,0 +1,290 @@
+[{
+  "id": 1,
+  "klien": "Wiley Betts",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 2,
+  "klien": "Edgard Lowes",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 3,
+  "klien": "Reilly Huebner",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 4,
+  "klien": "Cordelia Muckle",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 5,
+  "klien": "Yalonda Pebworth",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 6,
+  "klien": "Calley Matoshin",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 7,
+  "klien": "Josiah Bromet",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 8,
+  "klien": "Tudor Catterill",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 9,
+  "klien": "Lorianne Oliva",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 10,
+  "klien": "Barbaraanne Fawcitt",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 11,
+  "klien": "Ernestine Ovens",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 12,
+  "klien": "Laryssa Rickerby",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 13,
+  "klien": "Berkly Watson",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 14,
+  "klien": "Hanni Vaughn",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 15,
+  "klien": "Tobiah Gavin",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 16,
+  "klien": "Priscella De Mars",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 17,
+  "klien": "Granthem Piggot",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 18,
+  "klien": "Mellie Bramo",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 19,
+  "klien": "Rodge Brasted",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 20,
+  "klien": "Lisabeth Mundell",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 21,
+  "klien": "Wells Carlick",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 22,
+  "klien": "Dallas Lakin",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 23,
+  "klien": "Dmitri Philipart",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 24,
+  "klien": "Maryellen Helix",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 25,
+  "klien": "Obadias Thomsen",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 26,
+  "klien": "Hannie Gasparro",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 27,
+  "klien": "Dyna O'Sesnane",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 28,
+  "klien": "Lana Sawnwy",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 29,
+  "klien": "Mariele Rimell",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 30,
+  "klien": "Pepe Davidof",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 31,
+  "klien": "Orella Kruszelnicki",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 32,
+  "klien": "Chloe Pyott",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 33,
+  "klien": "Florie Filinkov",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 34,
+  "klien": "Myrlene Ferruzzi",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 35,
+  "klien": "Olia Havill",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 36,
+  "klien": "Sterling McCart",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 37,
+  "klien": "Sigvard Britten",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 38,
+  "klien": "Mela Semonin",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 39,
+  "klien": "Eleonore Dyett",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 40,
+  "klien": "Dewain Armstead",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 41,
+  "klien": "Katey Lewton",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 42,
+  "klien": "Ellynn Bubear",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 43,
+  "klien": "Alie Copyn",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 44,
+  "klien": "Guss Abela",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 45,
+  "klien": "Tessie Compton",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 46,
+  "klien": "Frederico Iffland",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 47,
+  "klien": "Grannie Wallentin",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}, {
+  "id": 48,
+  "klien": "Rockwell Cogswell",
+  "deadLine": "20 Maret 2025",
+  "nominal": "Rp 130.000",
+  "status": "Belum Bayar"
+}
+]
